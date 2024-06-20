@@ -17,7 +17,7 @@ This repository contains the following sections:
 
 Below is a workflow diagram that illustrates the steps involved in data preparation and analysis:
 
-![Workflow Diagram](/home/hamdaalhosani/Downloads/abstract_smmary.drawio.pdf)
+![Workflow Diagram](/home/hamdaalhosani/Downloads/abstract_smmary.drawio.png)
 
 ## Scripts Guide
 
