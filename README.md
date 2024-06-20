@@ -1,10 +1,7 @@
 # FEATURE-pHLA
 
 ### Overview
-
-## Introduction
-
-Welcome to the **Project Title** repository. This project is focused on [briefly describe the purpose or main goal of the project]. It includes a comprehensive tool that [describe what the tool does, e.g., "predicts peptide-HLA binding affinity"].
+Physio-chemical features is all you need to predict peptide-HLA binding afinity. 
 
 ## Overview
 
@@ -17,8 +14,7 @@ This repository contains the following sections:
 
 Below is a workflow diagram that illustrates the steps involved in data preparation and analysis:
 
-![Workflow Diagram](abstract_smmary.drawio.png)
-![Workflow Diagram](bstract_smmary.drawio.png)
+![abstract_summary drawio](https://github.com/hamda-alh/FEATURE-pHLA/assets/152274710/f8d987fb-70c9-4788-81d8-20ac0ae93ed0)
 ## Scripts Guide
 
 This section provides an overview and explanation of each script included in this repository.
@@ -30,3 +26,4 @@ This section provides an overview and explanation of each script included in thi
 **Usage**:
 ```bash
 python script1.py [arguments]
+
