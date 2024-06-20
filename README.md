@@ -9,6 +9,6 @@ We present FEATURE-pHLA. A tree-based model utilizing the physico-chemical finge
 ## Data:
 Source data is aquired from (https://data.mendeley.com/datasets/zx3kjzc3yx/3) 
 
-##1. Feature Extraction
+## 1. Feature Extraction
 To extract list the list of physio-chemical features of the peptide and HLA sequences run [pHLA_data.ipynb](Script/pHLA_data.ipynb)
 
