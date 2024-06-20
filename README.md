@@ -18,7 +18,7 @@ This repository contains the following sections:
 Below is a workflow diagram that illustrates the steps involved in data preparation and analysis:
 
 ![Workflow Diagram](abstract_smmary.drawio.png)
-
+![Workflow Diagram](bstract_smmary.drawio.png)
 ## Scripts Guide
 
 This section provides an overview and explanation of each script included in this repository.
