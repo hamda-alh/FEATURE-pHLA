@@ -12,8 +12,8 @@ FEATURE-pHLA is easy to use and implement
 Source data is aquired from (https://data.mendeley.com/datasets/zx3kjzc3yx/3) 
 
 ## Requirements
-* run ```bash pip install -r requirements.txt
-* CPU 
+* run pip install -r requirements.txt
+* requires CPU only
 
 ## FEATURE-pHLA
  * To extract list the list of physio-chemical features of the peptide and HLA sequences run [pHLA_data.ipynb](Script/pHLA_data.ipynb)
