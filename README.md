@@ -1,7 +1,7 @@
 # FEATURE-pHLA
 ## Physio-chemical features is all you need!
 ### Overview
-We present FEATURE-pHLA. A tree-based model utilizing the physico-chemical fingerprints obtained from peptides and HLA sequences to predict pHLA binding affinity. To determine the predictive capabilities in physio-chemical features and explaining the mechanisms underlying the binding process. Below is the Framework of FEATURE-pHLA
+We present FEATURE-pHLA. A tree-based model utilizing the physico-chemical fingerprints obtained from peptides and HLA sequences to predict pHLA binding affinity. To determine the predictive capabilities in physio-chemical features and explaining the mechanisms underlying the binding process. Below is the Framework of FEATURE-pHLA.
 
 
 
