@@ -9,7 +9,7 @@ We present FEATURE-pHLA. A tree-based model utilizing the physico-chemical finge
 ## 
 
 ## Data:
-Source data is aquired from (https://data.mendeley.com/datasets/zx3kjzc3yx/3) 
+Source data is acquired from (https://data.mendeley.com/datasets/zx3kjzc3yx/3). Ensure to download the data to the Data folder.
 
 ## Requirements
 * run pip install -r requirements.txt
