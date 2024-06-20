@@ -16,7 +16,7 @@ Source data is acquired from (https://data.mendeley.com/datasets/zx3kjzc3yx/3). 
 * requires CPU only
 
 ## FEATURE-pHLA
- * To extract list the list of physio-chemical features of the peptide and HLA sequences run [pHLA_data.ipynb](Script/pHLA_data.ipynb)
+ * To extract the list of physio-chemical features of the peptide and HLA sequences run [pHLA_data.ipynb](Script/pHLA_data.ipynb)
  * To retrain the model run [feature_based_lgbm_pred.ipynb](Script/feature_based_lgbm_pred.ipynb)
  * To generate a SHAPley based feature importance plot run [SHAP_figure_lightgbm.ipynb](Script/SHAP_figure_lightgbm.ipynb)
 
