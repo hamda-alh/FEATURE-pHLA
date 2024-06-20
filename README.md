@@ -1,21 +1,11 @@
 # FEATURE-pHLA
-
+#### Physio-chemical features is all you need
 ### Overview
-Physio-chemical features is all you need to predict peptide-HLA binding afinity. 
+We present FEATURE-pHLA. A tree-based model utilizing the physico-chemical fingerprints obtained from peptides and HLA sequences to predict pHLA binding affinity. To determine the predictive capabilities in physio-chemical features and explaining the mechanisms underlying the binding process. 
 
-## Overview
-
-This repository contains the following sections:
-- **Introduction**: Explanation of the project and the tool.
-- **Workflow Diagram**: Visual representation of the data preparation and analysis workflow.
-- **Scripts Guide**: Detailed explanation of each script in the repository.
-
-## Workflow Diagram
-
-Below is a workflow diagram that illustrates the steps involved in data preparation and analysis:
-
+Below is the Framework of FEATURE-pHLA
 ![abstract_summary drawio](https://github.com/hamda-alh/FEATURE-pHLA/assets/152274710/f8d987fb-70c9-4788-81d8-20ac0ae93ed0)
-## Scripts Guide
+## 
 
 This section provides an overview and explanation of each script included in this repository.
 
